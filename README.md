@@ -23,7 +23,7 @@ Foundry VTT companion module for the [PocketScroll](https://pocketscroll.app) mo
 In Foundry, go to **Add-on Modules > Install Module** and paste the manifest URL:
 
 ```
-https://github.com/pocketscroll/pocketscroll-socket/module.json
+https://flavio-s-amorim.github.io/pocketscroll_foundry_module/module.json
 ```
 
 ## Setup
