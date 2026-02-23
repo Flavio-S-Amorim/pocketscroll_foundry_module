@@ -4,7 +4,7 @@ Foundry VTT companion module for the [PocketScroll](https://pocketscroll.app) mo
 
 ## Requirements
 
-- Foundry VTT v10 - v12 (verified on v12)
+- Foundry VTT (verified on v13)
 - A GM user must be logged into Foundry for the module to function
 
 ## Installation
