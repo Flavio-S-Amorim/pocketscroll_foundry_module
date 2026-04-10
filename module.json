@@ -20,7 +20,7 @@
     ],
     "url": "https://github.com/flavio-s-amorim/pocketscroll_foundry_module",
     "manifest": "https://flavio-s-amorim.github.io/pocketscroll_foundry_module/module.json",
-    "download": "https://github.com/flavio-s-amorim/pocketscroll_foundry_module/releases/download/v1.2.0/pocketscroll-socket.zip",
+    "download": "https://github.com/flavio-s-amorim/pocketscroll_foundry_module/pocketscroll-socket.zip",
     "socket": true,
     "library": false,
     "description": "PocketScroll Foundry Companion"
